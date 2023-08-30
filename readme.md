@@ -18,6 +18,3 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + What is the average salary of female versus male employees in the entire company until year 2002? Need to filter out by departments.
 + What is the athe average male and female salary per department within a certain salary range?
 
-
-## Challenges
-**SQL - MySQL for Data Analytics and Business Intelligence** : challenges are from [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/) which is an interesting course.

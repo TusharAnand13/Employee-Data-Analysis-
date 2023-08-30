@@ -7,7 +7,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + Tableau Public
 
 ### Live Demo
-+ [view Project Details on Tableau Public](https://public.tableau.com/profile/phonethiriyadana#!/vizhome/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence/Dashboard1)
++ [view Project Details on Tableau Public](https://public.tableau.com/app/profile/tushar.anand3865/viz/EmployeeInformationDashboard_16934088435090/EmployeeInformationDashboard)
 
 ![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
 
